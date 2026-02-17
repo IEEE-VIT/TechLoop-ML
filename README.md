@@ -1,39 +1,14 @@
-# IEEE TechLoop IRIS: Introduction to Machine Learning: A Hands-On Workshop
+# IEEE TechLoop+ ML: Introduction to Machine Learning
 
-Welcome to a hands-on journey into the fascinating world of Machine Learning! This repository contains all the materials for an interactive workshop designed for beginners. Where we look into the core concepts, explore the math behind the models, and build an ML model.
-
-
----
-
-##  Workshop Overview
-
-This workshop provides a comprehensive yet approachable introduction to ML. We are focused on hands-on learning, ensuring you write code and see concepts in action. By the end, you will have a solid foundational understanding of:
-
-- The three primary paradigms of machine learning.
-- How to perform essential data analysis and visualization.
-- The intuition and mathematics behind predictive modeling (Regression).
-- The building blocks of deep learning through a practical image classification project.
+Welcome to the world of Machine Learning! This repository contains the compiled materials of previous TechLoop+ ML sessions. The sessions are interactive workshops designed for beginners: we cover core concepts, the math behind common models, and hands-on notebooks that build and evaluate ML models.
 
 ---
+### OVERVIEW
+This repo collects teaching materials and example notebooks used in TechLoop+ ML workshops. It is intended as a learning resource for newcomers to ML who want to follow guided examples, inspect datasets, and run the notebooks locally.
 
-##  Key Topics Covered
+### REPOSITORY STRUCTURE
+- `TechLoop2026/` — 
+- `TechLoop2025/` — Workshop materials and datasets from 2025. The session highlighted the three primary paradigms of machine learning, how to perform essential data analysis and visualization, the intuition and mathematics behind predictive modeling, the building blocks of deep learning through a practical image classification project.
+- `Readme.md` — This file.
 
--   **Fundamentals of Machine Learning**:
-    -   Supervised Learning
-    -   Unsupervised Learning
-    -   Reinforcement Learning
--   **Hands-On Data Analysis**:
-    -   Numerical operations with **NumPy**
-    -   Data manipulation and analysis with **Pandas**
-    -   Creating insightful visualizations with **Matplotlib**
--   **Linear Regression**:
-    -   Understanding the core math: Cost Functions and Gradient Descent.
--   **Neural Networks & The MNIST Challenge**:
-    -   The mathematics behind a simple neural network.
-    -   A complete hands-on session to classify handwritten digits from the famous **MNIST dataset**.
-
-## More Resources
--    https://www.youtube.com/watch?v=O5xeyoRL95U
--    https://youtu.be/r-uOLxNrNk8?si=iQtrHrieUGtpglo4
--    https://youtu.be/4b4MUYve_U8?si=WqGqQnWfON4klzYh
--    https://developers.google.com/machine-learning/crash-course
+---
